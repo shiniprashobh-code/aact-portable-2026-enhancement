@@ -1,0 +1,13 @@
+# Configuration for git attributes
+
+*.woff2 binary
+
+*.tsx linguist-detectable
+*.bat text eol=crlf 
+src/**/*.tsx linguist-detectable  
+*.html linguist-vendored
+
+dist/* linguist-vendored
+*.yaml linguist-detectable=false
+yarn.lock linguist-generated
+*.json linguist-detectable=false
