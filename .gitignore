@@ -1,0 +1,6 @@
+*.log
+.DS_Store
+.next/
+.env
+coverage/
+build/
